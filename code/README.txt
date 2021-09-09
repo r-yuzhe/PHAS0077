@@ -1,4 +1,4 @@
-There are four .ipynb files.
+There are four .ipynb files and three folders
 
 process.ipynb : process sounding data
 
@@ -9,6 +9,8 @@ cnnfile.ipynb: CNN code
 dgpsi.ipynb: dgp code
 
 
-Please place them as the same path as the zips
+These folders are empty now which are used when running codes
+
+Please place ALL things on the same path as the zips
 
 Thanks
