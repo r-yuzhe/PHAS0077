@@ -10,3 +10,7 @@ massdata.zip: MASS data
 data.zip,traindata.zip, xvalues.zip: sounding data
 
 
+In order to run these codes, some packages are required.
+
+Iris, tensorflow.keras,metpy  dgpsi :https://github.com/mingdeyu/DGP
+
