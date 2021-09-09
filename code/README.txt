@@ -1,12 +1,12 @@
 There are four .ipynb files.
 
-process.ipynb : process sounding dat
+process.ipynb : process sounding data
 
-mass_cape: process MASS data
+mass_cape.ipynb: process MASS data
 
-dnnfile: CNN code
+cnnfile.ipynb: CNN code
 
-dgpsi: dgp code
+dgpsi.ipynb: dgp code
 
 
 Please place them as the same path as the zips
